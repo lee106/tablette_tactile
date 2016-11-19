@@ -22,3 +22,5 @@ data = [
         [ 2, 'karl', 3, 'http://reddit.com/', 4, 'lol' ],
         [ 2, 'karl', 3, 'http://reddit.com/', 5, 'wtf' ]
     ]
+
+With this code, you will be able to know how to use a (tablette tactile)[https://www.besttech.fr] easily.
