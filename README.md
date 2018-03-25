@@ -80,4 +80,4 @@ $detect->version('iPhone') // 3.1 (float)
 $detect->version('Android'); // 2.1 (float)
 $detect->version('Opera Mini'); // 5.0 (float)
 
-With this code, you will be able to know how to use a [tablette tactile](https://www.tablette-tactile.com) easily. And you will be able to detect if your visitor uses a tablette on your website.
+With this code, you will be able to know how to use a [tablette tactile](https://www.besttech.fr) easily. And you will be able to detect if your visitor uses a tablette on your website.
